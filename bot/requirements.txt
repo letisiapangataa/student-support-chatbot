@@ -1,0 +1,6 @@
+azure-cognitiveservices-vision-computervision
+azure-cognitiveservices-language-luis
+azure-bot-service
+flask
+requests
+python-dotenv
