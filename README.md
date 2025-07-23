@@ -4,7 +4,7 @@ This project is an A.I Chatbot prototype designed to provide student support thr
 
 The chatbot is built using Azure Bot Services and QnA Maker, and it is integrated into a web portal for self-service support.
 
-## Project Structure 🤖
+## Project Structure
 
 ```
 student-support-chatbot
@@ -20,14 +20,14 @@ student-support-chatbot
 └── README.md                 # Project documentation
 ```
 
-## Technologies Used 🤖
+## Technologies Used
 
 - Azure Bot Framework
 - QnA Maker
 - HTML/CSS
 - JavaScript
 
-## How-To-Setup 🤖
+## How-To-Setup
 
 1. **Clone the repository:**
    ```
@@ -52,11 +52,11 @@ student-support-chatbot
 5. **Access the web portal:**
    - Open `index.html` in a web browser to interact with the chatbot.
 
-## Guide 🤖
+## Guide
 
 - Use the chatbot to ask frequently asked questions related to student support.
 - The chatbot will respond based on the knowledge base provided in the `knowledge-base.tsv` file.
 
-## For Contributors 🤖
+## Contributors
 
 Feel free to submit issues or pull requests to improve the chatbot and its functionalities.
