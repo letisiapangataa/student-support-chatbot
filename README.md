@@ -1,4 +1,4 @@
-# Student Support Chatbot 🤖
+# Student Support Chatbot
 
 This is an A.I Chatbot prototype designed to provide student support through a Q&A interface.
 
