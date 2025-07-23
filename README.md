@@ -20,7 +20,7 @@ student-support-chatbot
 └── README.md                 # Project documentation
 ```
 
-## Technologies Used
+## Technologies
 
 - Azure Bot Framework
 - QnA Maker
