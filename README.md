@@ -9,8 +9,8 @@ The chatbot is built using Azure Bot Services and QnA Maker, and it is integrate
 ```
 student-support-chatbot
 ├── bot
-│   ├── app.py                # Main logic for the chatbot
-│   └── requirements.txt      # Python dependencies for the bot
+│   ├── app.py                # Main app logic for the chatbot
+│   └── requirements.txt      # Python dependencies
 ├── qna
 │   └── knowledge-base.tsv     # Knowledge base for QnA Maker
 ├── web
