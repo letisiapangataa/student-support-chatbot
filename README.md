@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Student Support Chatbot
+# 👩🏻‍💻 A.I Student Support Chatbot (ALP)
 
-This is an **A.I Chatbot** prototype designed to provide student support through a Q&A interface. This chatbot is built using Azure Bot Services and QnA Maker, and it is integrated into a web portal for self-service support.
+This prototype is an AI-powered chatbot developed to deliver automated student support through a question-and-answer interface. It is implemented using Azure Bot Services in conjunction with QnA Maker for natural language processing and knowledge retrieval. The chatbot is fully integrated into a web-based self-service portal, enabling students to access support resources independently and efficiently.
 
 For a lab overview: https://letisiapangataa.github.io/posts/student-support-chatbot-ai/
 
